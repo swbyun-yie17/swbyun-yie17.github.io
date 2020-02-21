@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "SW"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "yonsei_IE&EEE"
+  bio              : #"yonsei_IE&EEE"
   location         : "South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "2017147024@yonsei.ac.kr"
+      url: 2017147024@yonsei.ac.kr
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/swbyun-yie17"
