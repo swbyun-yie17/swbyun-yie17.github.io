@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "seung woo byun"
-  avatar           : "/assets/images/SW.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/SW.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "AI 관련 공부/스터디 정리용입니다._all_about_data,image,text"
   location         : "yonsei uni."
   email            : "2017147024@yonsei.ac.kr"
