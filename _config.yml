@@ -20,7 +20,7 @@ title                    : "all about DIST"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SW_byun"
-description              : "I am going to post all of the thing I do"
+description              : "AI 관련 자료 정리용"
 url                      : "https://swbyun-yie17.guthub.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
